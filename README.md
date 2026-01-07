@@ -32,6 +32,8 @@ This reflects how Raft approaches mission-critical AI under real-world constrain
 
 ## Architecture
 
+See the architecture.png file.
+
 ```text
 User (CLI / Web)
         ↓

@@ -2,6 +2,8 @@
 
 ## Overview
 
+Candidate Name: Nick Gupta
+
 This project implements a **customer-facing, agentic AI system** that converts unstructured operational data into **trusted, structured insight**.
 
 The system accepts a natural-language request, retrieves raw order data from a simulated customer API, normalizes inconsistent free-text into validated JSON, and returns **deterministic, auditable results** aligned with the user’s intent.
